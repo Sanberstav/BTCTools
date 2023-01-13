@@ -2,7 +2,7 @@ BTCTools
 ==================
 ![image](https://user-images.githubusercontent.com/98730417/212393342-d2d20630-f24b-4158-bedc-a0104213fc10.png)
 
-BTC Tool is one of the best and convenient tools for managing your ASIC miner batches. The program allows you to scan Antminer Bitmain miners, sort them, as well as perform batch setup and reload equipment. The program is easy to use, and is suitable for both beginners and experienced miners… 
+BTC Tools is one of the best and convenient tools for managing your ASIC miner batches. The program allows you to scan Antminer Bitmain miners, sort them, as well as perform batch setup and reload equipment. The program is easy to use, and is suitable for both beginners and experienced miners… 
 It can build on Windows, Linux and macOS, as dynamic or static library.
 
 Many people who are professionally mining nowadays do not understand how to find their ASIC on the network. Basically, such a problem exists for novice miners, but for professionals, the program that will be discussed is irreplaceable as never before, since it simplifies the search process.
@@ -11,7 +11,7 @@ In general, many have such a problem, after purchasing an ASIC, and given that t
 
 Download: https://pool.btc.com/tools
 
-# BTC Tool features. BTC Tool introduces the following features:
+# BTC Tools features. BTC Tool introduces the following features:
 + Scanning miners belonging to several network segments in the local network. Displays basic information about miners such as hash rate, temperature, fan speed, pool, worker name, etc.
 + Sorting miners by each field like hash rate, temperature, worker name, etc. You can easily spot abnormal miners with low hash rate or high temperature, etc.
 + With the help of the “Miner Monitoring” function, BTC Tools can constantly update the information of miners. You can quickly find abnormal miners who combine this feature with sorting.
@@ -30,7 +30,7 @@ BTCTool
 + BTC Tools will automatically import the current computer network segment as IP scan range. If the IP range is correct, you can click the Scan Miner button to start scanning the miners.
 + If the IP address range is incorrect, you can double-click or right-click the item in the IP Address Range box to make changes. You can also click “+” to add a new range of IP addresses, or “-” to remove.
 
-# Search for ASICs using BTCTool.
+# Search for ASICs using Tools.
 Then, to search for ASICs, you should click on the “Scan” button, the field of which will search for ASICs. As the program runs, the progress in the bar next to the button will change. All this time, the program will scan the network, loading it, which is why it is worth turning off all programs and unnecessary devices from this network so as not to load the network and so that the check (scan) is successful.
 ![image](https://user-images.githubusercontent.com/98730417/212393216-861cd3df-6a17-429b-943f-a257ee68eb04.png)
 
