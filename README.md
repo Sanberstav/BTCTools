@@ -9,9 +9,7 @@ Many people who are professionally mining nowadays do not understand how to find
 
 In general, many have such a problem, after purchasing an ASIC, and given that the problem is not so large-scale, since not a very large number of people are interested in this topic, then find information on finding an ASIC, as well as how to connect to it by IP and the most the main thing is to correctly configure all equipment. Actually, in this article you will get acquainted with a utility called BTC Tools and learn how to download it, install it on your mining equipment, as well as where to download btc tools on your computer to solve such a sensitive problem as finding an ASIC, so that you can then configure it and earn your own money in the maximum amount on bitcoins.
 
-Download: https://pool.btc.com/tools
-
-# BTC Tools features. BTC Tool introduces the following features:
+# BTC Tools features, introduces the following features:
 + Scanning miners belonging to several network segments in the local network. Displays basic information about miners such as hash rate, temperature, fan speed, pool, worker name, etc.
 + Sorting miners by each field like hash rate, temperature, worker name, etc. You can easily spot abnormal miners with low hash rate or high temperature, etc.
 + With the help of the “Miner Monitoring” function, BTC Tools can constantly update the information of miners. You can quickly find abnormal miners who combine this feature with sorting.
