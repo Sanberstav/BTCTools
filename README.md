@@ -26,18 +26,18 @@ Batch control of miner’s power consumption in L
 Batch control of the miner’s frequency in overclocking or overclocking mode (available only for Antminer firmware with the “Mode” or “Working mode” drop-down list on the configuration page)
 Support for most Antminers and part of Avalon miners, including AntminerS17, T17, S9, S7, T9, etc., as well as AvalonA8, A7, A6, etc. (Reboot function is only available for Antminers, scan and configure is available as with Antminers and Avalon Miners.)
 
-#How to use BTCTool
+# How to use BTCTool
 Important! It is worth noting one important feature, which is that to search for an ASIC, you need the ASIC and the computer where you actually launched the program to work on the same network, that is, for example, if you have a wireless wi-fi, then then both the ASIC and the computer must be connected to this wi-fi network.
 ![image](https://user-images.githubusercontent.com/98730417/212392676-a6c38134-f0e9-46c1-ac4c-72acdd93d8cd.png)
-
-Extract the compressed package you downloaded and then double-click the extracted “BTC Tools.exe”.
++ Extract the compressed package you downloaded and then double-click the extracted “BTC Tools.exe”.
 BTCTool
-BTC Tools will automatically import the current computer network segment as IP scan range. If the IP range is correct, you can click the Scan Miner button to start scanning the miners.
-If the IP address range is incorrect, you can double-click or right-click the item in the IP Address Range box to make changes. You can also click “+” to add a new range of IP addresses, or “-” to remove.
-#Search for ASICs using BTCTool.
++ BTC Tools will automatically import the current computer network segment as IP scan range. If the IP range is correct, you can click the Scan Miner button to start scanning the miners.
++ If the IP address range is incorrect, you can double-click or right-click the item in the IP Address Range box to make changes. You can also click “+” to add a new range of IP addresses, or “-” to remove.
+
+# Search for ASICs using BTCTool.
 Then, to search for ASICs, you should click on the “Scan” button, the field of which will search for ASICs. As the program runs, the progress in the bar next to the button will change. All this time, the program will scan the network, loading it, which is why it is worth turning off all programs and unnecessary devices from this network so as not to load the network and so that the check (scan) is successful.
 
-#BTC Tools
+# BTC Tools
 In the process of searching for devices, ASICs will be displayed in the list below. In the list you can see the IP, ASIC status, name, operation mode, two ASIC hash rate values that were found during the search. In addition, there is information on the heating temperature of the ASICs, the rotation speed of the fans, the operating time of the ASICs in the active mining mode, as well as the addresses of the pools and walkers to which the ASICs are actually connected.
 
 In the process of searching for devices, ASICs will be displayed in the list below. In the list you can see the IP, ASIC status, name, operation mode, two ASIC hash rate values that were found during the search. In addition, there is information on the heating temperature of the ASICs, the rotation speed of the fans, the operating time of the ASICs in the active mining mode, as well as the addresses of the pools and walkers to which the ASICs are actually connected …
