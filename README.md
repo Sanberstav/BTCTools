@@ -1,12 +1,9 @@
-A core library of BTCTools
+BTCTools
 ==================
+![image](https://user-images.githubusercontent.com/98730417/212393342-d2d20630-f24b-4158-bedc-a0104213fc10.png)
 
-`libbtctools` is a library of `BTCTools`, it provides the basic ability of scanning, configuration and rebooting some miners.
-
+BTC Tool is one of the best and convenient tools for managing your ASIC miner batches. The program allows you to scan Antminer Bitmain miners, sort them, as well as perform batch setup and reload equipment. The program is easy to use, and is suitable for both beginners and experienced miners… 
 It can build on Windows, Linux and macOS, as dynamic or static library.
-
-BTC Tool (ASIC Mining Toolkit)
-BTC Tool is one of the best and convenient tools for managing your ASIC miner batches. The program allows you to scan Antminer Bitmain miners, sort them, as well as perform batch setup and reload equipment. The program is easy to use, and is suitable for both beginners and experienced miners…
 
 Many people who are professionally mining nowadays do not understand how to find their ASIC on the network. Basically, such a problem exists for novice miners, but for professionals, the program that will be discussed is irreplaceable as never before, since it simplifies the search process.
 
