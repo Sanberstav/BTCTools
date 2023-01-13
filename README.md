@@ -1,5 +1,4 @@
 # BTCTools - Managing your ASIC miners
-========================================
 
 ![image](https://user-images.githubusercontent.com/98730417/212393342-d2d20630-f24b-4158-bedc-a0104213fc10.png)
 
