@@ -5,6 +5,45 @@ A core library of BTCTools
 
 It can build on Windows, Linux and macOS, as dynamic or static library.
 
+BTC Tool (ASIC Mining Toolkit)
+BTC Tool is one of the best and convenient tools for managing your ASIC miner batches. The program allows you to scan Antminer Bitmain miners, sort them, as well as perform batch setup and reload equipment. The program is easy to use, and is suitable for both beginners and experienced miners…
+
+Many people who are professionally mining nowadays do not understand how to find their ASIC on the network. Basically, such a problem exists for novice miners, but for professionals, the program that will be discussed is irreplaceable as never before, since it simplifies the search process.
+
+In general, many have such a problem, after purchasing an ASIC, and given that the problem is not so large-scale, since not a very large number of people are interested in this topic, then find information on finding an ASIC, as well as how to connect to it by IP and the most the main thing is to correctly configure all equipment. Actually, in this article you will get acquainted with a utility called BTC Tools and learn how to download it, install it on your mining equipment, as well as where to download btc tools on your computer to solve such a sensitive problem as finding an ASIC, so that you can then configure it and earn your own money in the maximum amount on bitcoins.
+
+Download: https://pool.btc.com/tools
+BTC Tool features.
+BTC Tool introduces the following features:
+
+Scanning miners belonging to several network segments in the local network. Displays basic information about miners such as hash rate, temperature, fan speed, pool, worker name, etc.
+Sorting miners by each field like hash rate, temperature, worker name, etc. You can easily spot abnormal miners with low hash rate or high temperature, etc.
+With the help of the “Miner Monitoring” function, BTC Tools can constantly update the information of miners. You can quickly find abnormal miners who combine this feature with sorting.
+Batch setup of miners with their pools, worker names (sub-account.miner-postfix) and passwords or mining difficulties. You can configure all miners or only selected miners.
+Batch reboot of miners. You can reload all miners or only selected miners.
+Batch firmware update for all or selected miners.
+Batch control of miner’s power consumption in L
+Batch control of the miner’s frequency in overclocking or overclocking mode (available only for Antminer firmware with the “Mode” or “Working mode” drop-down list on the configuration page)
+Support for most Antminers and part of Avalon miners, including AntminerS17, T17, S9, S7, T9, etc., as well as AvalonA8, A7, A6, etc. (Reboot function is only available for Antminers, scan and configure is available as with Antminers and Avalon Miners.)
+
+#How to use BTCTool
+Important! It is worth noting one important feature, which is that to search for an ASIC, you need the ASIC and the computer where you actually launched the program to work on the same network, that is, for example, if you have a wireless wi-fi, then then both the ASIC and the computer must be connected to this wi-fi network.
+![image](https://user-images.githubusercontent.com/98730417/212392676-a6c38134-f0e9-46c1-ac4c-72acdd93d8cd.png)
+
+Extract the compressed package you downloaded and then double-click the extracted “BTC Tools.exe”.
+BTCTool
+BTC Tools will automatically import the current computer network segment as IP scan range. If the IP range is correct, you can click the Scan Miner button to start scanning the miners.
+If the IP address range is incorrect, you can double-click or right-click the item in the IP Address Range box to make changes. You can also click “+” to add a new range of IP addresses, or “-” to remove.
+#Search for ASICs using BTCTool.
+Then, to search for ASICs, you should click on the “Scan” button, the field of which will search for ASICs. As the program runs, the progress in the bar next to the button will change. All this time, the program will scan the network, loading it, which is why it is worth turning off all programs and unnecessary devices from this network so as not to load the network and so that the check (scan) is successful.
+
+#BTC Tools
+In the process of searching for devices, ASICs will be displayed in the list below. In the list you can see the IP, ASIC status, name, operation mode, two ASIC hash rate values that were found during the search. In addition, there is information on the heating temperature of the ASICs, the rotation speed of the fans, the operating time of the ASICs in the active mining mode, as well as the addresses of the pools and walkers to which the ASICs are actually connected.
+
+In the process of searching for devices, ASICs will be displayed in the list below. In the list you can see the IP, ASIC status, name, operation mode, two ASIC hash rate values that were found during the search. In addition, there is information on the heating temperature of the ASICs, the rotation speed of the fans, the operating time of the ASICs in the active mining mode, as well as the addresses of the pools and walkers to which the ASICs are actually connected …
+
+The main essence of the program is that you can configure your ASICs from any device and geographic location.
+
 # Dependency
 There are 4 dependencies:
 * Boost 1.59 or later (1.65 or later is validated and recommended)
