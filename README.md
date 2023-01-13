@@ -13,18 +13,17 @@ Many people who are professionally mining nowadays do not understand how to find
 In general, many have such a problem, after purchasing an ASIC, and given that the problem is not so large-scale, since not a very large number of people are interested in this topic, then find information on finding an ASIC, as well as how to connect to it by IP and the most the main thing is to correctly configure all equipment. Actually, in this article you will get acquainted with a utility called BTC Tools and learn how to download it, install it on your mining equipment, as well as where to download btc tools on your computer to solve such a sensitive problem as finding an ASIC, so that you can then configure it and earn your own money in the maximum amount on bitcoins.
 
 Download: https://pool.btc.com/tools
-BTC Tool features.
-BTC Tool introduces the following features:
 
-Scanning miners belonging to several network segments in the local network. Displays basic information about miners such as hash rate, temperature, fan speed, pool, worker name, etc.
-Sorting miners by each field like hash rate, temperature, worker name, etc. You can easily spot abnormal miners with low hash rate or high temperature, etc.
-With the help of the “Miner Monitoring” function, BTC Tools can constantly update the information of miners. You can quickly find abnormal miners who combine this feature with sorting.
-Batch setup of miners with their pools, worker names (sub-account.miner-postfix) and passwords or mining difficulties. You can configure all miners or only selected miners.
-Batch reboot of miners. You can reload all miners or only selected miners.
-Batch firmware update for all or selected miners.
-Batch control of miner’s power consumption in L
-Batch control of the miner’s frequency in overclocking or overclocking mode (available only for Antminer firmware with the “Mode” or “Working mode” drop-down list on the configuration page)
-Support for most Antminers and part of Avalon miners, including AntminerS17, T17, S9, S7, T9, etc., as well as AvalonA8, A7, A6, etc. (Reboot function is only available for Antminers, scan and configure is available as with Antminers and Avalon Miners.)
+# BTC Tool features. BTC Tool introduces the following features:
++ Scanning miners belonging to several network segments in the local network. Displays basic information about miners such as hash rate, temperature, fan speed, pool, worker name, etc.
++ Sorting miners by each field like hash rate, temperature, worker name, etc. You can easily spot abnormal miners with low hash rate or high temperature, etc.
++ With the help of the “Miner Monitoring” function, BTC Tools can constantly update the information of miners. You can quickly find abnormal miners who combine this feature with sorting.
++ Batch setup of miners with their pools, worker names (sub-account.miner-postfix) and passwords or mining difficulties. You can configure all miners or only selected miners.
++ Batch reboot of miners. You can reload all miners or only selected miners.
++ Batch firmware update for all or selected miners.
++ Batch control of miner’s power consumption in L
++ Batch control of the miner’s frequency in overclocking or overclocking mode (available only for Antminer firmware with the “Mode” or “Working mode” drop-down list on the configuration page)
++ Support for most Antminers and part of Avalon miners, including AntminerS17, T17, S9, S7, T9, etc., as well as AvalonA8, A7, A6, etc. (Reboot function is only available for Antminers, scan and configure is available as with Antminers and Avalon Miners.)
 
 # How to use BTCTool
 Important! It is worth noting one important feature, which is that to search for an ASIC, you need the ASIC and the computer where you actually launched the program to work on the same network, that is, for example, if you have a wireless wi-fi, then then both the ASIC and the computer must be connected to this wi-fi network.
